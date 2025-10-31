@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Ngan Peak!  
 
 ### ✨ About Me
 I love coding, learning new technologies, and sharing knowledge.  
