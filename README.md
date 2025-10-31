@@ -16,11 +16,11 @@ I love coding, learning new technologies, and sharing knowledge.
 
 ---
 
-### 🎉 Fun Animations
+### ❤️ Pulsing Heart Animation
 <p align="center">
   <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Heart.svg" width="50"/>
-  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Fire.svg" width="50"/>
-  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Star.svg" width="50"/>
+  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Heart.svg" width="50"/>
+  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Heart.svg" width="50"/>
 </p>
 
 ---
