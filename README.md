@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Heart.svg" width="60"/>
-  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Heart.svg" width="60"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
 </p>
