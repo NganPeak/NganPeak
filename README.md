@@ -22,8 +22,3 @@ I love coding, learning new technologies, and sharing knowledge.
   <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/Animated-Star.svg" width="50"/>
 </p>
 
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NganPeak-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-MySite-orange?style=flat-square&logo=google-chrome)](https://nganpeak.github.io)
